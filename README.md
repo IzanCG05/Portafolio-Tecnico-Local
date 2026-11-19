@@ -1,13 +1,12 @@
-# 👋 Bienvenido a mi Portfolio Técnico
+# 👋 Portfolio Técnico Tema 7
 
-Hola, soy **Izan** (`@IzanCG05`), estudiante de desarrollo y sistemas.
+Hola, soy **Izan**, estudiante de 1º DAM B.
 
 ## 📌 ¿Qué es este portfolio?
-Este espacio reúne mis apuntes, prácticas y documentación técnica elaborada durante el curso, estructurada por Unidades de Trabajo (UT) utilizando **Docsify**.
+Este espacio reúne mis apuntes y documentación técnica elaborada sobre el Tema 7, estructurada por Unidades de Trabajo (UT) utilizando **Docsify**.
 
-## 📊 Estado de las unidades
+## 📊 Unidades en el portafolio
 
-| Unidad | Temática | Estado |
-| :--- | :--- | :--- |
-| **UT1 - UT6** | Fundamentos y desarrollo base | ⏳ Pendiente de migrar |
-| **UT7** | Documentación técnica con Docsify | ✅ Completado |
+| Unidad | Temática |
+| :--- | :--- |
+| **UT7** | Elaboración de documentación técnica ||
