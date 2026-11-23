@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfolio Técnico - Izan</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  
+  <!-- Tema visual oscuro de Docsify -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css">
+</head>
+<body>
+  <div id="app">Cargando portfolio...</div>
+
+  <script>
+    window.$docsify = {
+      name: 'Portfolio Técnico Local',
+      repo: 'https://github.com/IzanCG05/Portafolio-Tecnico-Local',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      auto2top: true,
+      // Configuración de Callouts (alertas estilizadas)
+      'flexible-alerts': {
+        style: 'flat'
+      }
+    }
+  </script>
+
+  <!-- Motor principal de Docsify -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  
+  <!-- Plugin para Callouts (> [!NOTE], > [!TIP], > [!WARNING], > [!IMPORTANT]) -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts"></script>
+  
+  <!-- Plugins opcionales de colores para bloques de código (Bash, JS, Python, HTML) -->
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-javascript.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+</body>
+</html>
