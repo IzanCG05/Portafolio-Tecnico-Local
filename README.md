@@ -9,4 +9,4 @@ Este espacio reúne mis apuntes y documentación técnica elaborada sobre el Tem
 
 | Unidad | Temática |
 | :--- | :--- |
-| **UT7** | Elaboración de documentación técnica ||
+| **UT7** | Elaboración de documentación técnica |
